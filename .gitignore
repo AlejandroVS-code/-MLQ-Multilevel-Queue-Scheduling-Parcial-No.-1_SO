@@ -1,0 +1,27 @@
+# --- Binarios y objetos compilados ---
+*.exe
+*.out
+*.o
+*.obj
+
+# --- Visual Studio ---
+.vscode/
+.docker/
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+x64/
+x86/
+Debug/
+Release/
+
+
+# --- Salidas generadas por el simulador (no versionar resultados de corridas) ---
+outputs/*.txt
+!outputs/.gitkeep
+
+# --- Sistema ---
+.DS_Store
+Thumbs.db
