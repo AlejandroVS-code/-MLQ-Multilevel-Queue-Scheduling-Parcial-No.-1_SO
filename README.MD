@@ -148,7 +148,6 @@ mlq-scheduler-SO/
 ├── src/              # Implementación (.cpp)
 ├── inputs/           # Archivos de entrada de prueba
 ├── outputs/          # Resultados generados por el simulador
-├── docs/             # Diagrama de clases UML
 ├── main.cpp
 ├── Dockerfile
 ├── docker-compose.yml
