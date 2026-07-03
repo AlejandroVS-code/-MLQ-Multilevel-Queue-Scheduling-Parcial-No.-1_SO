@@ -1,0 +1,5 @@
+# etiqueta;BT;AT;Q;Prioridad
+J;10;0;2;5
+K;3;2;1;5
+L;4;5;3;4
+M;2;5;1;5
