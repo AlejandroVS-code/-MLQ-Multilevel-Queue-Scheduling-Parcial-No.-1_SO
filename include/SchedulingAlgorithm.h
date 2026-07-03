@@ -3,7 +3,7 @@
    Versión: 1.0
    Descripción: Este archivo define la clase abstracta SchedulingAlgorithm,
    la cual sirve como interfaz para los algoritmos de planificación
-   implementados en el simulador. Esta clase establece los métodos que
+   implementados. Esta clase establece los métodos que
    deben implementar los algoritmos Round Robin y Priority, permitiendo
    que el planificador MLQ pueda utilizarlos sin depender de una
    implementación específica.

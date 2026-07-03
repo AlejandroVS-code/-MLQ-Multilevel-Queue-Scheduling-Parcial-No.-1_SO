@@ -1,7 +1,7 @@
 /* Autor: Alejandro Valencia Sandoval
    Correo: alejandro.valencia.sandoval@correounivalle.edu.co
-   Versión: 1.0
-   Descripción: Este archivo define la clase Process, la cual representa la
+   Version: 1.0
+   Descripcion: Este archivo define la clase Process, la cual representa la
    información de un proceso dentro de la CPU.
    Esta clase almacena los datos principales y mas comunes de un proceso, como su
    ID(ProcessId), BR(Burstime), AT(Arrivaltime), Q(Queue) y Pr(Priority).

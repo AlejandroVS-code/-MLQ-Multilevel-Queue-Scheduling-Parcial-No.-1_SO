@@ -87,7 +87,7 @@ std::vector<Process*> ProcessDetector::readInput(std::string path)
     return processes;
 }
 
-//Genera el archivo con los resultados de la simulacion
+//Genera el archivo con los resultados
 void ProcessDetector::writeOutput(std::string path,
                                   std::vector<Process*> results)
 {

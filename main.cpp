@@ -60,7 +60,7 @@ int main(int argc, char* argv[])
 
     scheduler.loadProcesses(processes);
 
-    //Ejecuta la simulacion completa
+    //Ejecuta el planificador 
     scheduler.run();
 
     std::vector<Process*> results =
@@ -87,7 +87,7 @@ int main(int argc, char* argv[])
         outputFile.close();
     }
 
-    std::cout<<"Simulacion terminada."<<std::endl;
+    std::cout<<"Ejecucion terminada."<<std::endl;
     std::cout<<"Resultados guardados en: "
              <<outputPath
              <<std::endl;
