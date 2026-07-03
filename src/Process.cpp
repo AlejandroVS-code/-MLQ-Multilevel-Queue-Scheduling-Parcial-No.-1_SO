@@ -14,6 +14,7 @@
 
 
 #include "Process.h"
+#include <iostream>
 
 // Constructor de la clase Process. Inicializa los atributos principales
 // del proceso y las métricas las inicializa en 0.

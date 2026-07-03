@@ -1,7 +1,7 @@
 CXX = g++
 CXXFLAGS = -std=c++17 -Wall -Iinclude
-SRC = $(wildcard src/*.cpp)
-TARGET = simulator
+SRC = $(wildcard src/*.cpp) Main.cpp
+TARGET = Project
 
 all: $(TARGET)
 

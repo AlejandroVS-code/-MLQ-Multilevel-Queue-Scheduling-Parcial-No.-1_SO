@@ -3,7 +3,8 @@
 *.out
 *.o
 *.obj
-
+Project
+Project.exe
 # --- Visual Studio ---
 .vscode/
 .docker/
